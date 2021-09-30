@@ -10,7 +10,7 @@
 }
 .shop {
     flex-basis: 16%; 
-    border: 1px dotted darksalmon;
+    border: 1px dotted green;
     padding: 1em;
     text-align: center;
 }
